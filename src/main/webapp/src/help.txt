@@ -1,0 +1,20 @@
+The Riot official has adopted an anonymous ranking mode in the latest update. Now you will not able see the real ID of your teammates in the ranking lobby, but will appear by code name, so we recommend you to use Quick Start to make a separate query
+
+============================================================
+Quick start(one player info request): input ONE player name and click the search button to get the information
+============================================================
+Full start (multiplayer infos):
+
+Please copy the lobby information of your teammates and paste them to the input area and click the search button. 
+For example: lqs joined the lobby
+============================================================
+
+What is a dodge warning ----> if you see the dodge warning, you can dodge this rank because the marked red player(s) have toxic performance( low KDA, low recent/overall win rate and losing more than 4 games in a row)
+
+User input Warning: Only NA player names are valid, and we only search for rank data (including flex and solo/duo rank), if the players didn't play more than 20 ranks recently, there might be an error message.
+We strongly recommend you to input five or less players' information since your team would probably not have more than 5 members
+
+
+
+
+And, Happy New Year!!!
